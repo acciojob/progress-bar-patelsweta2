@@ -1,1 +1,63 @@
-/*  your css code here. If applicable */
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+:root {
+  --line-border-fill: #3498db;
+  --line-border-empty: #383838;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+	background-color: #f1f1f1;
+	font-family: 'Muli', sans-serif;
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	height: 100vh;
+	overflow: hidden;
+	margin:0;
+}
+.container {
+	text-align:center;
+}
+.progress-container {
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+	margin-bottom: 30px;
+	max-width: 100%;
+	width: 350px;
+}
+.progress {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
